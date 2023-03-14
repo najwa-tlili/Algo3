@@ -1,0 +1,5 @@
+Procedure tri_Insertion (Tableau arr[0;n])
+
+  Pour i Varaiant de 2 a n faire
+    Inser a[i] à sa place dans arr[0;i-1];
+Fin Procedure;
